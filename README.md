@@ -50,11 +50,3 @@ Contributions to SparkBot are welcome! If you have any ideas, bug fixes, or impr
 ## License
 
 The SparkBot project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed.
-
-## Acknowledgements
-
-We would like to thank the open-source community for their invaluable contributions, as well as the creators of Wall-E for inspiring this project.
-
----
-
-Please note that this is a fictional description for the purpose of the exercise, and no actual robot or repository exists.
