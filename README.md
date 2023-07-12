@@ -45,7 +45,7 @@ The development of SparkBot is an ongoing process. Here are some potential futur
 
 ## Contributions
 
-Contributions to SparkBot are welcome! If you have any ideas, bug fixes, or improvements, feel free to submit a pull request or open an issue on the [GitHub repository](https://github.com/your_username/SparkBot).
+Contributions to SparkBot are welcome! If you have any ideas, bug fixes, or improvements, feel free to submit a pull request or open an issue on the [GitHub repository](https://github.com/bob4o-afk/SparkBot).
 
 ## License
 
