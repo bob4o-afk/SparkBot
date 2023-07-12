@@ -1,6 +1,6 @@
 # SparkBot
 
-![SparkBot](![20230409_200327](https://github.com/bob4o-afk/SparkBot/assets/80552018/f0fc268a-ceae-4656-84d2-f658327644ae))
+(![SparkBot](https://github.com/bob4o-afk/SparkBot/assets/80552018/f0fc268a-ceae-4656-84d2-f658327644ae))
 
 SparkBot is a robot inspired by the beloved character Wall-E. It is equipped with a camera and utilizes Python and OpenCV to detect trash in its surroundings. Once trash is detected, SparkBot employs its robotic hand to pick it up and deposit it into its trash bin. Additionally, SparkBot has the ability to identify holes in the road, enhancing its utility in various scenarios.
 
